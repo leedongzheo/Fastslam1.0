@@ -1,5 +1,3 @@
-# Fastslam1.0
-# Question: Thuật toán Fastslam1.0 version 1
 Chắc chắn rồi! Để mã giả trông "chuẩn bài báo khoa học" và giống hệt phong cách của slide bạn gửi, chúng ta sẽ thay thế các hàm lập trình bằng các **ký hiệu toán học xác suất**.
 
 Đây là thuật toán FastSLAM 1.0 (chính là bộ code Python của bạn) được viết lại hoàn toàn dưới góc độ toán học:
